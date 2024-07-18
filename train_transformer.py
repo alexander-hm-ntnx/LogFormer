@@ -16,7 +16,7 @@ from model import Model
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--log_name', type=str,
-                    default='BGL', help='log file name')
+                    default='BGL_2k', help='log file name')
 parser.add_argument('--window_size', type=int,
                     default='20', help='log sequence length')
 parser.add_argument('--mode', type=str, default='classifier',
@@ -38,7 +38,7 @@ with open(f'result/train_{suffix}.txt', 'a', encoding='utf-8') as f:
 # hyper-parameters
 EMBEDDING_DIM = 768
 batch_size = 64
-epochs = 5
+epochs = 100
 lr = args.lr
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 device_ids = [0, 1]
@@ -56,10 +56,10 @@ torch.backends.cudnn.deterministic = True
 
 # load data Hdfs
 training_data = np.load(
-    f'./preprocessed_data/{args.log_name}_training.npz', allow_pickle=True)
+    f'./preprocessed_data/{args.log_name}_training_data.npz', allow_pickle=True)
 # load test data Hdfs
 testing_data = np.load(
-    f'./preprocessed_data/{args.log_name}_testing.npz', allow_pickle=True)
+    f'./preprocessed_data/{args.log_name}_testing_data.npz', allow_pickle=True)
 x_train, y_train = training_data['x'], training_data['y']
 x_test, y_test = testing_data['x'], testing_data['y']
 del testing_data
@@ -168,6 +168,7 @@ for epoch in range(start_epoch+1, epochs):
     y_true = np.argmax(y_true, axis=1)
     y_pred = np.argmax(y_pred, axis=1)
     report = precision_recall_fscore_support(y_true, y_pred, average='binary')
+    print("Labels true, pred", y_true, y_pred)
     with open(f'result/train_{suffix}.txt', 'a', encoding='utf-8') as f:
         f.write('number of epochs:'+str(epoch)+'\n')
         f.write('Number of testing data:'+str(x_test.shape[0])+'\n')

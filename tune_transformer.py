@@ -16,11 +16,11 @@ from model import Model
 parser = argparse.ArgumentParser()
 # fine-tuning setting
 parser.add_argument('--pretrained_log_name', type=str,
-                    default='HDFS', help='log file name')
+                    default='BGL_2k', help='log file name')
 parser.add_argument("--load_path", type=str,
-                    default='checkpoints/train_HDFS_classifier_1_64_5e-05-best.pt', help="latest model path")
+                    default='checkpoints/train_BGL_2k_classifier_1_64_1e-05-best.pt', help="latest model path")
 parser.add_argument('--log_name', type=str,
-                    default='BGL', help='log file name')
+                    default='BGL_2k', help='log file name')
 parser.add_argument('--tune_mode', type=str, default='adapter',
                     help='tune adapter or classifier only')
 # model setting
@@ -57,10 +57,10 @@ torch.backends.cudnn.deterministic = True
 
 # load data Hdfs
 training_data = np.load(
-    f'./preprocessed_data/{args.log_name}_training.npz', allow_pickle=True)
+    f'./preprocessed_data/{args.log_name}_training_data.npz', allow_pickle=True)
 # load test data Hdfs
 testing_data = np.load(
-    f'./preprocessed_data/{args.log_name}_testing.npz', allow_pickle=True)
+    f'./preprocessed_data/{args.log_name}_testing_data.npz', allow_pickle=True)
 x_train, y_train = training_data['x'], training_data['y']
 x_test, y_test = testing_data['x'], testing_data['y']
 del testing_data

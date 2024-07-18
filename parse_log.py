@@ -3,6 +3,7 @@ import Drain
 input_dir = 'log_data/'  # The input directory of log file
 output_dir = 'parse_result/'  # The output directory of parsing results
 log_file = 'openstack.log'  # The input log file name
+# log_file = 'BGL_2k.log'  # The input log file name
 
 hdfs_format = '<Date> <Time> <Pid> <Level> <Component>: <Content>'  # HDFS log format
 bgl_format = '<Label> <Timestamp> <Date> <Node> <Time> <NodeRepeat> <Type> <Component> <Level> <Content>'
@@ -39,4 +40,8 @@ depth = 4  # Depth of all leaf nodes
 
 parser = Drain.LogParser(openstack_format, indir=input_dir,
                          outdir=output_dir, depth=5, st=0.5, rex=openstack_regex)
+
+# parser = Drain.LogParser(bgl_format, indir=input_dir,
+#                          outdir=output_dir, depth=5, st=0.5, rex=bgl_regex)
+
 parser.parse(log_file)

@@ -1,0 +1,6285 @@
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.5555555555555556
+Recall:0.625
+F1 score:0.5882352941176471
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.5555555555555556
+Recall:0.625
+F1 score:0.5882352941176471
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.5555555555555556
+Recall:0.625
+F1 score:0.5882352941176471
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.5555555555555556
+Recall:0.625
+F1 score:0.5882352941176471
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:5
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:6
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:7
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:8
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:9
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:10
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:11
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:12
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:13
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:14
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:15
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:16
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:17
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:18
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:19
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.5555555555555556
+Recall:0.625
+F1 score:0.5882352941176471
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:5
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:6
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:7
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:8
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:9
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:10
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:11
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:12
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:13
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:14
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:15
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:16
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:17
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:18
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:19
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.5555555555555556
+Recall:0.625
+F1 score:0.5882352941176471
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:5
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:6
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:7
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:8
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:9
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:10
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:11
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:12
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:13
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:14
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:15
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:16
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:17
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:18
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:19
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.5555555555555556
+Recall:0.625
+F1 score:0.5882352941176471
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:5
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:6
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:7
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:8
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:9
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:10
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:11
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:12
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:13
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:14
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:15
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:16
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:17
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:18
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:19
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:5
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:6
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:7
+Number of testing data:20
+Precision:0.4
+Recall:0.75
+F1 score:0.5217391304347826
+all_loss:[]
+
+number of epochs:8
+Number of testing data:20
+Precision:0.5454545454545454
+Recall:0.75
+F1 score:0.631578947368421
+all_loss:[]
+
+number of epochs:9
+Number of testing data:20
+Precision:0.5
+Recall:0.5
+F1 score:0.5
+all_loss:[]
+
+number of epochs:10
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:11
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:12
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:13
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:14
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:15
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:16
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:17
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:18
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:19
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:20
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:21
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:22
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:23
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.125
+F1 score:0.18181818181818182
+all_loss:[]
+
+number of epochs:24
+Number of testing data:20
+Precision:0.25
+Recall:0.125
+F1 score:0.16666666666666666
+all_loss:[]
+
+number of epochs:25
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:26
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:27
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:28
+Number of testing data:20
+Precision:0.42857142857142855
+Recall:0.375
+F1 score:0.4
+all_loss:[]
+
+number of epochs:29
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:30
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:31
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:32
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:33
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:34
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:35
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:36
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:37
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:38
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:39
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:40
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:41
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:42
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:43
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:44
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:45
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:46
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:47
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:48
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:49
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:50
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:51
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:52
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:53
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:54
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:55
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:56
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:57
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:58
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:59
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:60
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:61
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:62
+Number of testing data:20
+Precision:0.5
+Recall:0.5
+F1 score:0.5
+all_loss:[]
+
+number of epochs:63
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:64
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:65
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:66
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:67
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:68
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:69
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:70
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:71
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:72
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:73
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:74
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:75
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:76
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:77
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:78
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:79
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:80
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:81
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:82
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:83
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:84
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:85
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:86
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:87
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:88
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:89
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:90
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:91
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:92
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:93
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:94
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:95
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:96
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:97
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:98
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:99
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:5
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:6
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:7
+Number of testing data:20
+Precision:0.4
+Recall:0.75
+F1 score:0.5217391304347826
+all_loss:[]
+
+number of epochs:8
+Number of testing data:20
+Precision:0.5454545454545454
+Recall:0.75
+F1 score:0.631578947368421
+all_loss:[]
+
+number of epochs:9
+Number of testing data:20
+Precision:0.5
+Recall:0.5
+F1 score:0.5
+all_loss:[]
+
+number of epochs:10
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:11
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:12
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:13
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:14
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:15
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:16
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:17
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:18
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:19
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:20
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:21
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:22
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:23
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.125
+F1 score:0.18181818181818182
+all_loss:[]
+
+number of epochs:24
+Number of testing data:20
+Precision:0.25
+Recall:0.125
+F1 score:0.16666666666666666
+all_loss:[]
+
+number of epochs:25
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:26
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:27
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:28
+Number of testing data:20
+Precision:0.42857142857142855
+Recall:0.375
+F1 score:0.4
+all_loss:[]
+
+number of epochs:29
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:30
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:31
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:32
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:33
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:34
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:35
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:36
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:37
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:38
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:39
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:40
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:41
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:42
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:43
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:44
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:45
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:46
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:47
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:48
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:49
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:50
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:51
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:52
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:53
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:54
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:55
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:56
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:57
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:58
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:59
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:60
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:61
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:62
+Number of testing data:20
+Precision:0.5
+Recall:0.5
+F1 score:0.5
+all_loss:[]
+
+number of epochs:63
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:64
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:65
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:66
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:67
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:68
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:69
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:70
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:71
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:72
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:73
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:74
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:75
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:76
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:77
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:78
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:79
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:80
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:81
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:82
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:83
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:84
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:85
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:86
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:87
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:88
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:89
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:90
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:91
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:92
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:93
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:94
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:95
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:96
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:97
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:98
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:99
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:5
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:6
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:7
+Number of testing data:20
+Precision:0.4
+Recall:0.75
+F1 score:0.5217391304347826
+all_loss:[]
+
+number of epochs:8
+Number of testing data:20
+Precision:0.5454545454545454
+Recall:0.75
+F1 score:0.631578947368421
+all_loss:[]
+
+number of epochs:9
+Number of testing data:20
+Precision:0.5
+Recall:0.5
+F1 score:0.5
+all_loss:[]
+
+number of epochs:10
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:11
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:12
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:13
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:14
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:15
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:16
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:17
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:18
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:19
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:20
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:21
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:22
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:23
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.125
+F1 score:0.18181818181818182
+all_loss:[]
+
+number of epochs:24
+Number of testing data:20
+Precision:0.25
+Recall:0.125
+F1 score:0.16666666666666666
+all_loss:[]
+
+number of epochs:25
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:26
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:27
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:28
+Number of testing data:20
+Precision:0.42857142857142855
+Recall:0.375
+F1 score:0.4
+all_loss:[]
+
+number of epochs:29
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:30
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:31
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:32
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:33
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:34
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:35
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:36
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:37
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:38
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:39
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:40
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:41
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:42
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:43
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:44
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:45
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:46
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:47
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:48
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:49
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:50
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:51
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:52
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:53
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:54
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:55
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:56
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:57
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:58
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:59
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:60
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:61
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:62
+Number of testing data:20
+Precision:0.5
+Recall:0.5
+F1 score:0.5
+all_loss:[]
+
+number of epochs:63
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:64
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:65
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:66
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:67
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:68
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:69
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:70
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:71
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:72
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:73
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:74
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:75
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:76
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:77
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:78
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:79
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:80
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:81
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:82
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:83
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:84
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:85
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:86
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:87
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:88
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:89
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:90
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:91
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:92
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:93
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:94
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:95
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:96
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:97
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:98
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:99
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+Namespace(log_name='BGL_2k', window_size=20, mode='classifier', num_layers=1, adapter_size=64, lr=1e-05, resume=0, load_path='checkpoints/model-latest.pt')
+number of epochs:0
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:1
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:2
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:3
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:4
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:5
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:6
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:7
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:8
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:9
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:10
+Number of testing data:20
+Precision:0.4
+Recall:1.0
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:11
+Number of testing data:20
+Precision:0.3684210526315789
+Recall:0.875
+F1 score:0.5185185185185185
+all_loss:[]
+
+number of epochs:12
+Number of testing data:20
+Precision:0.3888888888888889
+Recall:0.875
+F1 score:0.5384615384615384
+all_loss:[]
+
+number of epochs:13
+Number of testing data:20
+Precision:0.375
+Recall:0.75
+F1 score:0.5
+all_loss:[]
+
+number of epochs:14
+Number of testing data:20
+Precision:0.42857142857142855
+Recall:0.75
+F1 score:0.5454545454545454
+all_loss:[]
+
+number of epochs:15
+Number of testing data:20
+Precision:0.42857142857142855
+Recall:0.75
+F1 score:0.5454545454545454
+all_loss:[]
+
+number of epochs:16
+Number of testing data:20
+Precision:0.5454545454545454
+Recall:0.75
+F1 score:0.631578947368421
+all_loss:[]
+
+number of epochs:17
+Number of testing data:20
+Precision:0.5454545454545454
+Recall:0.75
+F1 score:0.631578947368421
+all_loss:[]
+
+number of epochs:18
+Number of testing data:20
+Precision:0.5555555555555556
+Recall:0.625
+F1 score:0.5882352941176471
+all_loss:[]
+
+number of epochs:19
+Number of testing data:20
+Precision:0.5
+Recall:0.5
+F1 score:0.5
+all_loss:[]
+
+number of epochs:20
+Number of testing data:20
+Precision:0.5
+Recall:0.5
+F1 score:0.5
+all_loss:[]
+
+number of epochs:21
+Number of testing data:20
+Precision:0.2
+Recall:0.125
+F1 score:0.15384615384615385
+all_loss:[]
+
+number of epochs:22
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:23
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:24
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:25
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:26
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:27
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:28
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:29
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:30
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:31
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:32
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:33
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:34
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:35
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:36
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:37
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:38
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:39
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:40
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:41
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:42
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:43
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:44
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:45
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:46
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:47
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:48
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:49
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:50
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:51
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:52
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:53
+Number of testing data:20
+Precision:0.0
+Recall:0.0
+F1 score:0.0
+all_loss:[]
+
+number of epochs:54
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:55
+Number of testing data:20
+Precision:1.0
+Recall:0.125
+F1 score:0.2222222222222222
+all_loss:[]
+
+number of epochs:56
+Number of testing data:20
+Precision:0.5
+Recall:0.125
+F1 score:0.2
+all_loss:[]
+
+number of epochs:57
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.125
+F1 score:0.18181818181818182
+all_loss:[]
+
+number of epochs:58
+Number of testing data:20
+Precision:0.25
+Recall:0.125
+F1 score:0.16666666666666666
+all_loss:[]
+
+number of epochs:59
+Number of testing data:20
+Precision:0.25
+Recall:0.125
+F1 score:0.16666666666666666
+all_loss:[]
+
+number of epochs:60
+Number of testing data:20
+Precision:0.25
+Recall:0.125
+F1 score:0.16666666666666666
+all_loss:[]
+
+number of epochs:61
+Number of testing data:20
+Precision:0.25
+Recall:0.125
+F1 score:0.16666666666666666
+all_loss:[]
+
+number of epochs:62
+Number of testing data:20
+Precision:0.25
+Recall:0.125
+F1 score:0.16666666666666666
+all_loss:[]
+
+number of epochs:63
+Number of testing data:20
+Precision:0.25
+Recall:0.125
+F1 score:0.16666666666666666
+all_loss:[]
+
+number of epochs:64
+Number of testing data:20
+Precision:0.25
+Recall:0.125
+F1 score:0.16666666666666666
+all_loss:[]
+
+number of epochs:65
+Number of testing data:20
+Precision:0.4
+Recall:0.25
+F1 score:0.3076923076923077
+all_loss:[]
+
+number of epochs:66
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:67
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:68
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:69
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:70
+Number of testing data:20
+Precision:0.3333333333333333
+Recall:0.25
+F1 score:0.2857142857142857
+all_loss:[]
+
+number of epochs:71
+Number of testing data:20
+Precision:0.42857142857142855
+Recall:0.375
+F1 score:0.4
+all_loss:[]
+
+number of epochs:72
+Number of testing data:20
+Precision:0.42857142857142855
+Recall:0.375
+F1 score:0.4
+all_loss:[]
+
+number of epochs:73
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:74
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:75
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:76
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:77
+Number of testing data:20
+Precision:0.375
+Recall:0.375
+F1 score:0.375
+all_loss:[]
+
+number of epochs:78
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:79
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:80
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:81
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:82
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:83
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:84
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:85
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:86
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:87
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:88
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:89
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:90
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:91
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:92
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:93
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:94
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:95
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:96
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:97
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:98
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:99
+Number of testing data:20
+Precision:0.5
+Recall:0.625
+F1 score:0.5555555555555556
+all_loss:[]
+
+number of epochs:100
+Number of testing data:20
+Precision:0.45454545454545453
+Recall:0.625
+F1 score:0.5263157894736842
+all_loss:[]
+
+number of epochs:101
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:102
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:103
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:104
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:105
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:106
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:107
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:108
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:109
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:110
+Number of testing data:20
+Precision:0.4
+Recall:0.5
+F1 score:0.4444444444444444
+all_loss:[]
+
+number of epochs:111
+Number of testing data:20
+Precision:0.4444444444444444
+Recall:0.5
+F1 score:0.47058823529411764
+all_loss:[]
+
+number of epochs:112
+Number of testing data:20
+Precision:0.5714285714285714
+Recall:0.5
+F1 score:0.5333333333333333
+all_loss:[]
+
+number of epochs:113
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:114
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:115
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:116
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:117
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:118
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:119
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:120
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.5
+F1 score:0.5714285714285714
+all_loss:[]
+
+number of epochs:121
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:122
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:123
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:124
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:125
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:126
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:127
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:128
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:129
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:130
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:131
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:132
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:133
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:134
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:135
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:136
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:137
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:138
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:139
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:140
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:141
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:142
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:143
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:144
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:145
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:146
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:147
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:148
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:149
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:150
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:151
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:152
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:153
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:154
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:155
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:156
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:157
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:158
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:159
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:160
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:161
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:162
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:163
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:164
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:165
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:166
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:167
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:168
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:169
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:170
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:171
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:172
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:173
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:174
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:175
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:176
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:177
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:178
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:179
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:180
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:181
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:182
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:183
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:184
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:185
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:186
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:187
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:188
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:189
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:190
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:191
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:192
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:193
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:194
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:195
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:196
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:197
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:198
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:199
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:200
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:201
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:202
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:203
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:204
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:205
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:206
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:207
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:208
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:209
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:210
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:211
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:212
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:213
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:214
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:215
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:216
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:217
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:218
+Number of testing data:20
+Precision:0.6666666666666666
+Recall:0.25
+F1 score:0.36363636363636365
+all_loss:[]
+
+number of epochs:219
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:220
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:221
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:222
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:223
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:224
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:225
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:226
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:227
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:228
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:229
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:230
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:231
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:232
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:233
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:234
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:235
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:236
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:237
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:238
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:239
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:240
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:241
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:242
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:243
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:244
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:245
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:246
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:247
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:248
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:249
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:250
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:251
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:252
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:253
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:254
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:255
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:256
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:257
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:258
+Number of testing data:20
+Precision:0.8
+Recall:0.5
+F1 score:0.6153846153846154
+all_loss:[]
+
+number of epochs:259
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:260
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:261
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:262
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:263
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:264
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:265
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:266
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:267
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:268
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:269
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:270
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:271
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:272
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:273
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:274
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:275
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:276
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:277
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:278
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:279
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:280
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:281
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:282
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:283
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:284
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:285
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:286
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:287
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:288
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:289
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:290
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:291
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:292
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:293
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:294
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:295
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:296
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:297
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:298
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:299
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:300
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:301
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:302
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:303
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:304
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:305
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:306
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:307
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:308
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:309
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:310
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:311
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:312
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:313
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:314
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:315
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:316
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:317
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:318
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:319
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:320
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:321
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:322
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:323
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:324
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:325
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:326
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:327
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:328
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:329
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:330
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:331
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:332
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:333
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:334
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:335
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:336
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:337
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:338
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:339
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:340
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:341
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:342
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:343
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:344
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:345
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:346
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:347
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:348
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:349
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:350
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:351
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:352
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:353
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:354
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:355
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:356
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:357
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:358
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:359
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:360
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:361
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:362
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:363
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:364
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:365
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:366
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:367
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:368
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:369
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:370
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:371
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:372
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:373
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:374
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:375
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:376
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:377
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:378
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:379
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:380
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:381
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:382
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:383
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:384
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:385
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:386
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:387
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:388
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:389
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:390
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:391
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:392
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:393
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:394
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:395
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:396
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:397
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:398
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:399
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:400
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:401
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:402
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:403
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:404
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:405
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:406
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:407
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:408
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:409
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:410
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:411
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:412
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:413
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:414
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:415
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:416
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:417
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:418
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:419
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:420
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:421
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:422
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:423
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:424
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:425
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:426
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:427
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:428
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:429
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:430
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:431
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:432
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:433
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:434
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:435
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:436
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:437
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:438
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:439
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:440
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:441
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:442
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:443
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:444
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:445
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:446
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:447
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:448
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:449
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:450
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:451
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:452
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:453
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:454
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:455
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:456
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:457
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:458
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:459
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:460
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:461
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:462
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:463
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:464
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:465
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:466
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:467
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:468
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:469
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:470
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:471
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:472
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:473
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:474
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:475
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:476
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:477
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:478
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:479
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:480
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:481
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:482
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:483
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:484
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:485
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:486
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:487
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:488
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:489
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:490
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:491
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:492
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:493
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:494
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:495
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:496
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:497
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:498
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+
+number of epochs:499
+Number of testing data:20
+Precision:0.75
+Recall:0.375
+F1 score:0.5
+all_loss:[]
+

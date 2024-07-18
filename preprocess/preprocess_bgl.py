@@ -36,7 +36,8 @@ if __name__ == '__main__':
         'distilbert-base-nli-mean-tokens', device=device)
 
     # load data
-    log_name = 'BGL'
+    # log_name = 'BGL'
+    log_name = 'BGL_2k'
     df_template = pd.read_csv(f"parse_result/{log_name}.log_templates.csv")
     df_structured = pd.read_csv(f"parse_result/{log_name}.log_structured.csv")
 

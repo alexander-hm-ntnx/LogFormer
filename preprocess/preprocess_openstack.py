@@ -8,8 +8,6 @@ import torch
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
 
-import Drain
-
 log_name = 'openstack'
 input_dir = 'log_data/'  # The input directory of log file
 output_dir = 'parse_result/'  # The output directory of parsing results

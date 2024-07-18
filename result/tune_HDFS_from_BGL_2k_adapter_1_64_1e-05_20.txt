@@ -1,0 +1,1 @@
+Namespace(pretrained_log_name='BGL_2k', load_path='checkpoints/train_BGL_2k_classifier_1_64_1e-05-latest.pt', log_name='HDFS', tune_mode='adapter', num_layers=1, lr=1e-05, window_size=20, adapter_size=64, epoch=20)

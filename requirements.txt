@@ -1,0 +1,5 @@
+regex==2022.3.2
+sentence_transformers
+numpy
+pandas
+torch
